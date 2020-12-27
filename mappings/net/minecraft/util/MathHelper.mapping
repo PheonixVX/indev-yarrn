@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_1 net/minecraft/util/MathHelper
+	METHOD method_2 (F)F
+		ARG 0 arg
+	METHOD method_3 (F)F
+		ARG 0 arg
+	METHOD method_4 sqrt (F)F
+		ARG 0 arg
